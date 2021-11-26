@@ -8,6 +8,7 @@ Code4z is an all-in-one VS Code extension pack for mainframe users working with 
   <img src="https://raw.githubusercontent.com/BroadcomMFD/code4z/master/extensions3.png" alt="Code4z Extensions"/>
 </p>
 
+
 ## How Does It Work?
 
 Code4z extensions utilize language servers that are fully compatible with the [Language Server Protocol Specification](https://microsoft.github.io/language-server-protocol/specification). Additional editor extensions simplify your common workflows and enable you to work with COBOL and HLASM code in the same way you work with other languages in Visual Studio Code.
