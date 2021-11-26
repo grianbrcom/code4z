@@ -1,3 +1,12 @@
+## [1.2.3](https://github.com/grianbrcom/code4z/compare/1.2.2...1.2.3) (2021-11-26)
+
+
+### Bug Fixes
+
+* extraline in changes ([7f528a5](https://github.com/grianbrcom/code4z/commit/7f528a551c3b9a0c9fa0ceee053adcc079ed4984))
+
+
+
 ## [1.2.1] 2021-06-11
 
 - Readme update
